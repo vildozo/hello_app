@@ -1,3 +1,8 @@
+Direccion en Heroku: https://serene-oasis-96856.herokuapp.com/
+Direccion en Github: https://github.com/vildozo/hello_app
+
+
+
 5.1. De acuerdo con la página predeterminada de Rails, ¿cuál es la versión de Ruby del
 sistema? Confirma ejecutando ruby -v en la consola.
 
