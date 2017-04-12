@@ -1,0 +1,12 @@
+5.1. De acuerdo con la página predeterminada de Rails, ¿cuál es la versión de Ruby del
+sistema? Confirma ejecutando ruby -v en la consola.
+
+La pagina dice que es la version de rails es 5.0.2 y cuando se hace la consulta en la consula tambien muestra la version 5.02
+
+
+
+8.2. Comprueba que Rails soporta caracteres que no forman parte de ASCII incluyendo
+un signo de apertura de exclamación, como “¡Hola, mundo!”.
+
+Rails si soporta caracteres que no forman parte de ascii
+
